@@ -1,0 +1,24 @@
+[
+	{
+		"reference":"PMHC1",
+		"category":"textile",
+		"type" : "pantalon","manga" : "my hero academia","prix" : 55,"tags" : ["sport","cosplay"],
+     "description":"C'est sympatoche", 
+		"taillesDispo" : {"s": true, "m":true, "l":true,"xl":true,"xxl":true},
+		"couleur":"vert",
+		"similaire" : ["PMHC2","PMHC3"],
+		"sexe" : "homme"
+
+
+	}
+  {
+    "reference":"PMHC5",
+		"category":"textile",
+		"type" : "t-shirt","manga" : "jojo's bizarre adventure","prix" : 35,"tags" : ["fashion","cosplay"], "description":"C'est trop bien", 
+		"taillesDispo" : {"s": true, "m":true, "l":true,"xl":true,"xxl":false},
+		"couleur":"noir",
+		"similaire" : ["PMHC9","PMHC10"],
+		"sexe" : "homme"
+  }
+
+]
